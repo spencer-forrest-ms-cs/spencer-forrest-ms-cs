@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Spencer</h1>
 <h3 align="center">Software developer from New-Caledonia</h3>
 
-- 🌱 I’m currently learning **Microservices with Spring Cloud**
+- 🌱 I’m currently learning **Machine Learning** and **AI**
 
-- 📫 How to reach me **www.linkedin.com/in/spencer-forrest-opt/**
+- 📫 How to reach me **www.linkedin.com/in/spencer-forrest-ms/**
 
 - ⚡ Fun fact **I am interested in <a href="https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html" target="_blank">KMM</a> and <a href="https://blog.jetbrains.com/kotlin/2023/05/compose-multiplatform-for-ios-is-in-alpha/" target="_blank">Compose Mutliplatform for iOS</a>**
 
