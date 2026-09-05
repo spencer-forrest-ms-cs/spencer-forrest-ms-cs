@@ -35,3 +35,15 @@ I'm currently pursuing my *Master of Science in Computer Science* and expanding 
 
 I'm particularly interested in combining my software engineering experience with AI to build reliable, scalable, and real-world AI systems.
 
+<h3 align="left">Languages & Technologies</h3>
+
+<p align="left">
+  <a href="https://www.java.com/">Java</a> ·
+  <a href="https://spring.io/">Spring Boot</a> ·
+  <a href="https://www.typescriptlang.org/">TypeScript</a> ·
+  <a href="https://angular.dev/">Angular</a> ·
+  <a href="https://html.spec.whatwg.org/multipage/">HTML</a> ·
+  <a href="https://www.w3.org/Style/CSS/">CSS</a> ·
+  <a href="https://kafka.apache.org/">Apache Kafka</a> ·
+  <a href="https://www.docker.com/">Docker</a>
+</p>
